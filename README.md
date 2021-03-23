@@ -1,6 +1,6 @@
 ## ABC
 
-Animated letters of the English alphabet using the [BBC micro:bit](https://microbit.org/new-microbit/).
+Animated transition between letters of the English alphabet using the [BBC micro:bit](https://microbit.org/new-microbit/).
 
 (gif animation)
 
